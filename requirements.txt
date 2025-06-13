@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+sentence-transformers
+langchain
+unstructured
+pdfminer.six
+python-docx
+pandas
+numpy
+torch
+tensorflow
